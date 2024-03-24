@@ -1,4 +1,4 @@
-[![MasterHead](https://freeimage.host/i/JhSlBzG)](www.kishoreuputoori.io)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/04/90/33/39/1000_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg)]
 <h1 align="center">Hi 👋, I'm Kishore Uputoori</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 <img width="400" align="right" alt="Coding" src="https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
