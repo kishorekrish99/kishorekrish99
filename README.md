@@ -1,7 +1,7 @@
 [![MasterHead](https://freeimage.host/i/JhSlBzG)](www.kishoreuputoori.io)
 <h1 align="center">Hi 👋, I'm Kishore Uputoori</h1>
 <h3 align="center">A passionate Full stack developer</h3>
-<img width="400" align="right" alt="Coding" src="[https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg](https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg)">
+<img width="400" align="right" alt="Coding" src="https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorekrish99&label=Profile%20views&color=0e75b6&style=flat" alt="kishorekrish99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/uppulkishore" target="blank"><img src="https://img.shields.io/twitter/follow/uppulkishore?logo=twitter&style=for-the-badge" alt="uppulkishore" /></a> </p>
