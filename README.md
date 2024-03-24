@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishore Uputoori</h1>
 <h3 align="center">A passionate Full stack developer</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uputoori-kishore-8505bb14a/)
+
 - 🔭 I’m currently working on [Microservices](https://github.com/kishorekrish99/Microservices)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishorekrish99](https://github.com/kishorekrish99)
