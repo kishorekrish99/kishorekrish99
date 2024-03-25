@@ -13,9 +13,11 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@kishoreuputoori](https://hashnode.com/@kishoreuputoori)
 
-- 💬 Ask me about **Java, Spring Framework, Python, Angular,and Microservices.**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **Kishoreuputoori@gmail.com**
+
+- 💬 Ask me about **Java, Spring Framework, Python, Angular,and Microservices.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
