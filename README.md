@@ -1,4 +1,4 @@
-<img src="https://iili.io/JhiM9Qp.jpg" alt="wallpaperflare.com wallpaper (11)" border="0">
+<img height="500" width="900" src="https://iili.io/JhiM9Qp.jpg" alt="wallpaperflare.com wallpaper (11)" border="0">
 <h1 align="center">Hi 👋, I'm Kishore Uputoori</h1>
 <h3 align="center">A Passionate Full stack developer</h3>
 
