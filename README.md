@@ -1,6 +1,6 @@
-[![MasterHead]<img src="https://iili.io/JhSlBzG.jpg" alt="wallpaperflare.com wallpaper (10)" border="0"><img src="https://iili.io/JhilHAl.jpg" alt="WhatsApp Image 2024 03 24 at 19.08.01 8969e2f9" border="0">]
+<img src="https://iili.io/JhilHAl.jpg" alt="WhatsApp Image 2024 03 24 at 19.08.01 8969e2f9" border="0">
 <h1 align="center">Hi 👋, I'm Kishore Uputoori</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">A Passionate Full stack developer</h3>
 <img width="400" align="right" alt="Coding" src="https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorekrish99&label=Profile%20views&color=0e75b6&style=flat" alt="kishorekrish99" /> </p>
 
